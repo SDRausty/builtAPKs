@@ -2,7 +2,7 @@
 
 Enjoy using [Termux](https://termux.com/) 💪🙂 on device! [Termux](https://termux.com/) is completely amazing on a smartphone and/or a tablet in your pocket! 
 
-Sources for [builtAPKs](https://github.com/sdrausty/builtAPKs) are at [buildAPKs](https://sdrausty.github.io/buildAPKs/)
+Sources for [builtAPKs](https://github.com/sdrausty/builtAPKs) are at [buildAPKs.](https://sdrausty.github.io/buildAPKs/) You are encouraged to build APKs like these on your Android and/or Chrome device. Great 🌟 starting points are https://sdrausty.github.io/buildAPKs/reallyEasilyBuildAndroidAPKsOnDevice and https://github.com/sdrausty/buildAPKs if you are interested in compiling APKs on a smartphone and/or tablet.
 
 [step2201708231503530193.apk](./step2201708231503530193.apk)
 [step2201708231503530197.apk](./step2201708231503530197.apk)
