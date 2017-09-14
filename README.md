@@ -4,5 +4,3 @@ Enjoy using [Termux](https://termux.com/) 💪🙂 on device! [Termux](https://t
 
 Sources for [builtAPKs](https://github.com/sdrausty/builtAPKs) at [buildAPKs](https://sdrausty.github.io/buildAPKs/)
 
-# builtAPKs
-builtAPKs
