@@ -405,3 +405,5 @@ Sources for [builtAPKs](https://github.com/sdrausty/builtAPKs) are at [buildAPKs
 [step2201708231503531811.apk](./step2201708231503531811.apk)
 [step2201708231503531815.apk](./step2201708231503531815.apk)
 [step2201708231503531819.apk](./step2201708231503531819.apk)
+
+Sources for [builtAPKs](https://github.com/sdrausty/builtAPKs) are at [buildAPKs.](https://sdrausty.github.io/buildAPKs/) These sources were built on Android 6.0.1 OS device aarch64 on August 23 2017.
