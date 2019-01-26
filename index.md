@@ -4,8 +4,8 @@ Enjoy using [Termux](https://termux.com/) 💪🙂 on device! [Termux](https://t
 
 Sources for [builtAPKs](https://github.com/sdrausty/builtAPKs) are at [buildAPKs.](https://sdrausty.github.io/buildAPKs/) You can build APKs like these on your Android, Chrome and Fire device in [Termux.](https://termux.com/)  Great 🌟 starting points are [https://sdrausty.github.io/buildAPKs/setup](https://sdrausty.github.io/buildAPKs/setup) and [https://github.com/sdrausty/buildAPKs](https://github.com/sdrausty/buildAPKs) if you are interested in compiling APKs on a smartphone and/or tablet.
 
-[2017](./2017/)
+[builtAPKs2017](./builtAPKs2017/)
 
-[2019](./2019/)
+[builtAPKs2019](./builtAPKs2019/)
 
 Sources for [builtAPKs](https://github.com/sdrausty/builtAPKs) are at [buildAPKs.](https://sdrausty.github.io/buildAPKs/) These APKs were built on an Android 6.0.1 aarch64 smartphone on August 23 2017
