@@ -6,8 +6,8 @@ Sources for [builtAPKs](https://github.com/sdrausty/builtAPKs) are at [buildAPKs
 
 [builtAPKs2017](./builtAPKs2017/)
 
+Sources for [builtAPKs](https://github.com/sdrausty/builtAPKs) are at [buildAPKs.](https://sdrausty.github.io/buildAPKs/) These APKs were built on an Android 6.0.1 aarch64 smartphone on August 23 2017
+
 [builtAPKs2019](./builtAPKs2019/)
 
 [builtAPKs2021](https://github.com/SDRausty/builtAPKs/tree/master/builtAPKs2021)
-
-Sources for [builtAPKs](https://github.com/sdrausty/builtAPKs) are at [buildAPKs.](https://sdrausty.github.io/buildAPKs/) These APKs were built on an Android 6.0.1 aarch64 smartphone on August 23 2017
