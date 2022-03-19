@@ -2,6 +2,8 @@
 
 # [builtAPKs](https://github.com/sdrausty/builtAPKs)
 
+[![Join the chat at https://gitter.im/builtAPKs/community](https://badges.gitter.im/builtAPKs/community.svg)](https://gitter.im/builtAPKs/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Enjoy using [Termux](https://github.com/termux/) 💪🙂 on device! [Termux](https://github.com/termux/) is completely amazing on an Android smartphone and tablet! 
 
 1 [These APKs were built from sources](./builtAPKs2017) on an Android 6.0.1 aarch64 smartphone on August 23 2017.
